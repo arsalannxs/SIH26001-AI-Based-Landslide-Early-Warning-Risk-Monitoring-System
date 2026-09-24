@@ -1,0 +1,9 @@
+{
+  "name": "NER Drishti - AI Landslide Early Warning & Risk Monitoring System",
+  "description": "Real-time AI-powered landslide prediction, GIS risk mapping, IoT sensor telemetry, and community early warning platform for the North Eastern Region (MDoNER).",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
